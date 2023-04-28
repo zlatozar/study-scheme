@@ -12,8 +12,9 @@
 
 Compilers:
 
-- "Essentials of Compilation: An Incremental Approach in Racket" by  Jeremy Siek
 - "Essentials of Programming Languages" by Daniel Friedman
+- "Essentials of Compilation: An Incremental Approach in Racket" by  Jeremy Siek
+- "Programming Languages: An interpreter-based apporoach" by Samuel Kamin
 
 AI:
 
